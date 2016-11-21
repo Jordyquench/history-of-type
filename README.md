@@ -10,6 +10,8 @@ Week 7 - 8th November
 
 - [Version 02](http://jordyquench.github.io/history-of-type/history-of-type-2.html)
 
+- [Version 03](http://jordyquench.github.io/history-of-type/history-of-type-4.html)
+
 #history-list-1
 
 week 7 - 8th November
