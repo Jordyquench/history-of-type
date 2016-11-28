@@ -1,0 +1,93 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1em;
+}
+
+body{
+	width: 75%;
+	max-height: 100px;
+	font-family: 'Roboto', sans-serif;
+	margin: auto;
+	line-height: 1.8em;
+	background: #F7F7F7;
+}
+
+/* Typography */
+
+h1, h2, h3 {
+	font-height: normal;
+	text-align: center;
+	color: #59757F;
+	
+
+}
+
+
+h1{
+	font-size: 4em;
+	line-height: 1.5em;
+
+}
+
+h2{
+	font-size: 1.5em;
+	margin-bottom: 1em;
+	color: #59757F;
+	font-style: italic;
+}
+
+/*nav*/
+
+nav {
+
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333; 
+    padding: 1em 0;
+    margin-bottom: 4em;
+}
+
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li {
+
+    display: inline;
+    margin: 20px;
+
+}
+
+a {
+	color: #59757F;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red; 
+	border-bottom: 1px dotted;
+} 
+
+.container{
+	line-height: 1.5em;
+	width: 75%;
+	margin: auto;
+	text-align: left;
+
+}
+
+/* Jenson */
+
+#nicolas-jensen img{
+	margin-bottom: 1em; 
+	display:block;
+	margin: 1em auto;
+	padding: o;
+	max-width: 100%;
+
+}
+
